@@ -14,9 +14,10 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fulop-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fulop-sql" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'
-            
+  <img align="center" alt="Fulop-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fulop-sql" height="40" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'>
+  <img aling = "center" alt="Fulop-jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+      
 </div>
 
 <div>
